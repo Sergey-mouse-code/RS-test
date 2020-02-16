@@ -1,2 +1,2 @@
 # RS-test
-https://sergey-mouse-code.github.io/RS-test/cv-norm
+https://sergey-mouse-code.github.io/RS-test/index
